@@ -7,5 +7,7 @@ Something related to rebase.
 
 ## Repository Purpose
 
-This will be a change that will conflict with the 
-changes made in remote repository.
+This is just a README file.
+
+
+
